@@ -7,10 +7,12 @@ html, body{
     padding: 0px auto;
     -webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
+	background-color: #fff;
 }
 
 body{
 	text-align: center;
+	padding-top:50px;
 }
 
 
